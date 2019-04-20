@@ -10,9 +10,9 @@
 
 ![&#xE40;&#xE25;&#xE37;&#xE2D;&#xE01;&#xE2B;&#xE25;&#xE31;&#xE01;&#xE2A;&#xE39;&#xE15;&#xE23;](../.gitbook/assets/2562-03-21-13.12.15.png)
 
-![](../.gitbook/assets/screenshot_20-04-2019_18-24-00.jpg)
+![Tab &#xE42;&#xE1B;&#xE23;&#xE42;&#xE21;&#xE0A;&#xE31;&#xE48;&#xE19;](../.gitbook/assets/screenshot_20-04-2019_18-24-00.jpg)
 
-![](../.gitbook/assets/screenshot_20-04-2019_18-26-37.jpg)
+![Tab &#xE40;&#xE01;&#xE35;&#xE48;&#xE22;&#xE27;&#xE01;&#xE31;&#xE1A;&#xE2A;&#xE16;&#xE32;&#xE1A;&#xE31;&#xE19;](../.gitbook/assets/screenshot_20-04-2019_18-26-37.jpg)
 
 ![](../.gitbook/assets/screenshot_20-04-2019_18-29-16.jpg)
 
@@ -20,7 +20,7 @@
 
 ![](../.gitbook/assets/screenshot_20-04-2019_18-29-37.jpg)
 
-![](../.gitbook/assets/screenshot_20-04-2019_18-30-13.jpg)
+![Tab &#xE02;&#xE49;&#xE2D;&#xE21;&#xE39;&#xE25;&#xE40;&#xE1E;&#xE34;&#xE48;&#xE21;&#xE40;&#xE15;&#xE34;&#xE21;](../.gitbook/assets/screenshot_20-04-2019_18-30-13.jpg)
 
 ![](../.gitbook/assets/screenshot_01-04-2019_18-19-54.jpg)
 

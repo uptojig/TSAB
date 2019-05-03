@@ -1,5 +1,7 @@
 # การจัดการ Gallery
 
+![](.gitbook/assets/screenshot_03-05-2019_15-03-13.jpg)
+
 ![](.gitbook/assets/screenshot_02-05-2019_16-58-13.jpg)
 
 ![](.gitbook/assets/screenshot_03-05-2019_11-34-09.jpg)

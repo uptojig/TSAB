@@ -6,6 +6,8 @@
 
 ![](.gitbook/assets/screenshot_03-05-2019_11-35-21.jpg)
 
+![](.gitbook/assets/screenshot_03-05-2019_11-52-34.jpg)
+
 ![](.gitbook/assets/screenshot_03-05-2019_11-36-51.jpg)
 
 1. ตั้งชื่อ

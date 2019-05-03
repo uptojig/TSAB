@@ -1,5 +1,7 @@
 # Banner Slider Video
 
+![](../.gitbook/assets/screenshot_03-05-2019_11-19-15.jpg)
+
 ![](../.gitbook/assets/screenshot_03-05-2019_13-19-54%20%281%29.jpg)
 
 ![](../.gitbook/assets/screenshot_03-05-2019_13-18-48.jpg)

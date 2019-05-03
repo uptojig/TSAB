@@ -1,5 +1,7 @@
 # Banner Slider หน้าแรก
 
+![](../.gitbook/assets/screenshot_03-05-2019_11-17-53.jpg)
+
 ![](../.gitbook/assets/screenshot_03-05-2019_13-19-54.jpg)
 
 ![](../.gitbook/assets/screenshot_03-05-2019_13-16-35.jpg)

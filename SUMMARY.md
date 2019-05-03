@@ -41,4 +41,5 @@
   * [การสร้าง User ใหม่](undefined-11/user.md)
 * [การจัดการ Gallery](gallery.md)
 * [การตั้งค่า Yoast SEO](yoast-seo.md)
+* [การจัดการ Banner Slider](banner-slider.md)
 

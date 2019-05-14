@@ -44,7 +44,7 @@
 * [การจัดการ Banner Slider](banner-slider/README.md)
   * [Banner Slider หน้าแรก](banner-slider/banner-slider.md)
   * [Banner Slider Video](banner-slider/banner-slider-video.md)
-  * [วิธีการวาง shortcode slider ในหน้าต่างๆ](banner-slider/shortcode-slider.md)
+  * [วิธีการเปลี่ยน slider ในหน้าต่างๆ](banner-slider/shortcode-slider.md)
 * [การจัดการ Banner ในหน้าต่างๆ](banner/README.md)
   * [Banner หน้าทั่วไป](banner/banner-1.md)
   * [Banner หน้าประเทศ/เมือง](banner/banner.md)

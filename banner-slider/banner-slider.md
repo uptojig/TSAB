@@ -21,6 +21,16 @@
 1. ปรับตัวหนังสือ
 2. เปลี่ยนสีตัวหนังสือ
 
+### การใส่ลิงค์ที่ข้อความ
+
+![](../.gitbook/assets/screenshot_24-05-2019_11-24-26.jpg)
+
+![](../.gitbook/assets/screenshot_24-05-2019_11-30-20.jpg)
+
+![](../.gitbook/assets/screenshot_24-05-2019_11-31-16.jpg)
+
+![](../.gitbook/assets/screenshot_24-05-2019_11-32-08.jpg)
+
 ![&#xE2B;&#xE32;&#xE01;&#xE15;&#xE49;&#xE2D;&#xE07;&#xE01;&#xE32;&#xE23; &#xE1B;&#xE34;&#xE14;-&#xE40;&#xE1B;&#xE34;&#xE14; &#xE1A;&#xE32;&#xE07;&#xE15;&#xE31;&#xE27;](../.gitbook/assets/screenshot_03-05-2019_13-23-54.jpg)
 
 ![&#xE41;&#xE01;&#xE49;&#xE44;&#xE02;&#xE40;&#xE2A;&#xE23;&#xE47;&#xE08;&#xE41;&#xE25;&#xE49;&#xE27; &#xE01;&#xE14; save](../.gitbook/assets/screenshot_03-05-2019_13-23-27%20%281%29.jpg)

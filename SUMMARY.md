@@ -2,6 +2,7 @@
 
 * [คู่มือการใช้งานเว็บไซต์](README.md)
 * [การเพิ่มหลักสูตร](undefined-1/README.md)
+  * [การเพิ่มหลักสูตรที่คล้ายๆกัน](undefined-1/undefined-1.md)
   * [การเพิ่มหลักสูตร](undefined-1/undefined.md)
   * [การเพิ่มประเภทหลักสูตร](undefined-1/add-grade.md)
   * [การแก้ไข/ลบ](undefined-1/undefined-2-1.md)

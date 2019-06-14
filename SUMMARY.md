@@ -38,7 +38,7 @@
   * [การจัดการวิดเจ็ต](undefined-13/undefined-2.md)
   * [การจัดการ Footer](undefined-13/footer.md)
   * [การจัดการเมนู](undefined-13/undefined.md)
-* [การเพิ่มเมนูด้านบนและไอคอน](undefined-1-1.md)
+* [การเพิ่มเมนูด้านบนและไอคอน](menu-icon.md)
 * [การตั้งค่า](undefined-11/README.md)
   * [การสร้าง User ใหม่](undefined-11/user.md)
 * [การจัดการ Gallery](gallery.md)

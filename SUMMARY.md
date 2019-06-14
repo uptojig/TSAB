@@ -28,6 +28,7 @@
   * [การนำฟอร์มไปใช้กับกิจกรรม](undefined-7/undefined-1.md)
   * [การดูรีพอร์ท](undefined-7/undefined-4.md)
   * [การ export เป็นไฟล์ CSV](undefined-7/.csv.md)
+  * [การสร้างหน้าใช้งาน สำหรับฟอร์มอิสระ](undefined-7/undefined-6.md)
 * [การจัดการนักเรียน](undefined-9/README.md)
   * [การเพิ่มนักเรียน](undefined-9/undefined-8.md)
   * [การลบนักเรียน](undefined-9/undefined-5.md)
